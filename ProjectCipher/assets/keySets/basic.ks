@@ -1,2 +1,2 @@
 ABCDEFGHIJKLMNOPQRSTUVWXYZ 
-/home/md/C++/ProjektCypher/assets/vinegereKeys/trivial.k
+/home/md/C++/ProjektCypher/assets/vigenereKeys/trivial.k
