@@ -1,2 +1,2 @@
 ABCDEFGHIJKLMNOPQRSTUVWXYZ 
-/home/md/C++/ProjektCypher/assets/vinegereKeys/default.k
+/home/md/C++/ProjektCypher/assets/vigenereKeys/default.k
